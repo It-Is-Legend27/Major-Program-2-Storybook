@@ -1,0 +1,130 @@
++=========================================================================================+
+|           XX                                                           XX         XX    |
+|XXXXXXXXXXXXXX                   XXXXXX     X     XXXXX                 XXXX       XXXX  |
+|XX   XX   XXXX                     XXX     XXX     XX                     XX         XX  |
+|     XX     XXXXXXXX   XXXXXX       XXX   XXXXX   XX    XXXXXXXXXXXXXXX   XX    XXXXXXX  |
+|     XX     XX    XX  XXX   XX       XXX  XX XXX  XX   XXX   XXX XXX XX   XX  XXX    XX  |
+|     XX     XX    XX  XXXXXXXX       XXX XX  XXX XX    XX     XX XX       XX  XXX    XX  |
+|     XX     XX    XX  XXX    X        XXXX    XXXX     XXX   XXX XX       XX  XXX    XX  |
+|   XXXXXX  XXXX  XXXXX XXXXXXX         XX      XX       XXXXXXXXXXXXX   XXXXXX XXXXXXXXXX|
++=========================================================================================+
+|Interactive Storybook by Angel Badillo                                                   |
++=========================================================================================+
+$END_OF_TITLE
+
++=========================================================================================+
+My name is:
+$END_OF_QUESTION
+I am a(n):
+$END_OF_QUESTION
+My archenemy is:
+$END_OF_QUESTION
+My catchphrase is:
+$END_OF_QUESTION
++=========================================================================================+
+[1]: I, [1], am currently standing in the video game aisle of Walmart.
+As a(n) [2], I epically reach for a $19 Fortnite card. Out of nowhere,
+an enemy gamer appears. What should I do?
++=========================================================================================+
+$END_OF_PAGE
+1. Fight
+$END_OF_CHOICE
+2. Open Apple Maps and set destination for home
+$END_OF_CHOICE
+3. Floss
+$END_OF_CHOICE
++=========================================================================================+
+[1]: I, [1], successfully beat the enemy, as expected of a(n) [2]. Unfortunately, 
+this maniacal, evil incarnate, [3] appears. What do I do?
++=========================================================================================+
+$END_OF_PAGE
+1. Run away
+$END_OF_CHOICE
+2. Approach menacingly
+$END_OF_CHOICE
+3. Run away menacingly
+$END_OF_CHOICE
++=========================================================================================+
+[1]: I, [1] menacingly approached [3]. I fought the evil being valiantly, then
+I used the secret power of the [2] to try to end the evil incarnate. A 
+problem arose. My plot armor broke. What do I do?
++=========================================================================================+
+$END_OF_PAGE
+1. Say catchphrase
+$END_OF_CHOICE
+2. Turn up the volume of my theme song
+$END_OF_CHOICE
+3. Both 1 and 2
+$END_OF_CHOICE
++=========================================================================================+
+([1]'s theme song starts playing in the background. [1]
+directs a menacing stare toward [3]. [1] takes a deep breath.)
+[1], the [2]: [4]
+I, [1], the [2], defeated the malice incarnate [3], which is pretty epic.
+On the other hand, I, [1], am lost. What do I do?
++=========================================================================================+
+$END_OF_PAGE
+1. Use Google maps on iPhone to navigate home
+$END_OF_CHOICE
+2. Use Apple maps to navigate home
+$END_OF_CHOICE
+3. Turn up the volume of my theme song
+$END_OF_CHOICE
++=========================================================================================+
+[1]: Wha-what the f-... Where am I?
+( [1] looks around and notices nothing but an endless void surrounding 
+everything.)
+( [1] opens Amazon.com and buys the latest Samsung smartphone with 
+instant shipping.)
+(UPS delivery van appears in the void.)
+UPS Delivery man: Hi! How are you, (glances at name on package) [1]?
+The weather sure is nice today isn't it? Anyway, have a good day!
+(UPS delivery van gets engulfed in the void and vanishes without a trace.)
+[1]: What the h-.... This is what I get for owning an iPhone and using Apple maps
+to get around. Hmm. How does this advanced device work? What do I do?
++=========================================================================================+
+$END_OF_PAGE
+1. Take out sword (epically) and cut the darkness
+$END_OF_CHOICE
+2. (^)(^)(v)(v)(<)(>)(<)(>)(B)(A) (Forbidden technique of time reversal)
+$END_OF_CHOICE
+3. Use Google Maps on Samsung smartphone to navigate home
+$END_OF_CHOICE
++=========================================================================================+
+Narrator: [1], the [2], died. How tragic. [1] was so young. 
+Such a great [2], but the poor decisions took their toll on [1].
+                              _______________
+                             /___     >   ___\  
+                            (  |     _     |  ) 
+                             \ |    (_)    | /  
+                              ~~~~~~~~~~~~~~~
+XXXXX   XXXX XXXXXXXX XXXXX   XXXXX   XXXXXX     XXXXXXXX  XXXXXXXXXXXXXXXXX
+  XXX   XX XXXX    XXXXXX       X       XX     XXXX    XXXXXX    XX XX    XX
+   XXX XX  XXX      XXXXX       X       XX     XXX      XXXXXXX     XX   X
+    XXXX   XX        XXXX       X       XX     XX        XX XXXXXXX XXXXXX
+     XX    XXX      XXXXX       X       XX     XXX      XXX     XXX XX   X  X
+     XX    XXXX    XXXXXXX     XX       XX    XXXXX    XXXXX     XX XX     XX
+   XXXXXX    XXXXXXXX   XXXXXXXXX     XXXXXXXXXX XXXXXXXX XXXXXXXXXXXXXXXXXXX
+If only [1] had the ability to go back in time and make the right 
+choice, or to start from the beginning. Oh... Wait! [1] does!!!
+([1]'s theme song starts playing intensly.)
+[1], the [2]: [4]
++=========================================================================================+
+$END_OF_PAGE
++=========================================================================================+
+Narrator: [1], the [2], got home and wasted all the vbucks epically.
+[1], the [2]: [4]
+                              _______________
+                             /   O    >  O   \  
+                            (       ____      ) 
+                             \      \__/     /  
+                              ~~~~~~~~~~~~~~~
+XXXXX   XXXX XXXXXXXX XXXXX   XXXXX   XXXXXX     X     XXXXXXXXXXXXXX   XXXXX
+  XXX   XX XXXX    XXXXXX       X       XXX     XXX     XX   XX   XXXX    X
+   XXX XX  XXX      XXXXX       X        XXX   XXXXX   XX    XX   X XXX   X
+    XXXX   XX        XXXX       X         XXX  XX XXX  XX    XX   X  XXXX X
+     XX    XXX      XXXXX       X         XXX XX  XXX XX     XX   X   XXXXX
+     XX    XXXX    XXXXXXX     XX          XXXX    XXXX      XX   X     XXX
+   XXXXXX    XXXXXXXX   XXXXXXXXX           XX      XX     XXXXXXXXXX    XX
++=========================================================================================+
+$END_OF_PAGE
